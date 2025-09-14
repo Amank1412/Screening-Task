@@ -14,10 +14,17 @@ Follow these steps to use the AI debugging assistant:
 
 This repository provides the AI debugging assistant prompt designed for Python Screening Task 2. It includes:
 
-1. **prompt:** Copy from [`prompt.md`](./prompt.md) and use in any AI platform  
-2. **reasoning:** Understand the prompt structure and philosophy in [`reasoning.md`](./reasoning.md)  
+1. **Prompt:** Copy from [`prompt.md`](./prompt.md) and use in any AI platform  
+2. **Reasoning:** Understand the prompt structure and philosophy in [`reasoning.md`](./reasoning.md)  
 3. **Examples:** View practical scenarios showing how the AI provides guidance for students of different skill levels in [`Examples.md`](./Examples.md)
----
-This project was prepared by **Aman Kumar** on **September 14, 2025**.  
-For any questions or feedback, reach out at **amankumarr7390@gmail.com**.
 
+---
+
+## Author
+
+**Aman Kumar** – September 14, 2025  
+
+- **Email:** [amankumarr7390@gmail.com](mailto:amankumarr7390@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/amank1412/](https://www.linkedin.com/in/amank1412/)  
+- **X / Twitter:** [https://x.com/Amank1412](https://x.com/Amank1412)  
+- **Portfolio:** [https://www.amannn.site/](https://www.amannn.site/)
