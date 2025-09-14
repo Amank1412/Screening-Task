@@ -1,6 +1,6 @@
 # Python Debugging Assistant - AI Prompt Task - 2
 
-### Quick Start
+### Getting Started
 
 Follow these steps to use the AI debugging assistant:
 
