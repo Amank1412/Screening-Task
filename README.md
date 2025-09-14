@@ -20,6 +20,14 @@ This repository provides the AI debugging assistant prompt designed for Python S
 
 ---
 
+## Workflow
+
+The following diagram illustrates the workflow of how the AI Debugging Assistant is used:
+
+![Workflow](./workflow.png)
+
+---
+
 ## Author
 
 **Aman Kumar** – September 14, 2025  
@@ -27,4 +35,4 @@ This repository provides the AI debugging assistant prompt designed for Python S
 - **Email:** [amankumarr7390@gmail.com](mailto:amankumarr7390@gmail.com)  
 - **LinkedIn:** [https://www.linkedin.com/in/amank1412/](https://www.linkedin.com/in/amank1412/)  
 - **X / Twitter:** [https://x.com/Amank1412](https://x.com/Amank1412)  
-- **Portfolio:** [https://www.amannn.site/](https://www.amannn.site/)
+- **Portfolio:** [https://www.amannn.site/](https://www.amannn.site/)  
